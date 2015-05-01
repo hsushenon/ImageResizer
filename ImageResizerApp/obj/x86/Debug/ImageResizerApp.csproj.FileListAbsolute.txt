@@ -1,9 +1,0 @@
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ImageResizerApp.Properties.Resources.resources
-D:\projects\ImageResizerApp\ImageResizerApp\bin\Debug\ImageResizerApp.exe
-D:\projects\ImageResizerApp\ImageResizerApp\bin\Debug\ImageResizerApp.pdb
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ImageResizerApp.exe
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ImageResizerApp.pdb
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ImageResizerApp.ImageResizerForm.resources
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ResGen.read.1.tlog
-D:\projects\ImageResizerApp\ImageResizerApp\obj\x86\Debug\ResGen.write.1.tlog
